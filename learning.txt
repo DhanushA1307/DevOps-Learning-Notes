@@ -1,1 +1,6 @@
 learning about the DevOps Concept
+01. Linux
+02. Networking
+03. Docker
+04. Deployment
+05. Kubernetes
