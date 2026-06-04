@@ -4,3 +4,4 @@ learning about the DevOps Concept
 03. Docker
 04. Deployment
 05. Kubernetes
+06. cloud
