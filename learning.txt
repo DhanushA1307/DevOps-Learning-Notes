@@ -6,3 +6,4 @@ learning about the DevOps Concept
 05. Kubernetes
 06. cloud
 07. Helm
+08. Ngnix
