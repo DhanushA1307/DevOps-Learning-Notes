@@ -8,3 +8,4 @@ learning about the DevOps Concept
 07. Helm
 08. Ngnix
 09. Jenkins
+10. Argo CD
