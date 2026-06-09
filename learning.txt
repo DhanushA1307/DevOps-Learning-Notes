@@ -10,3 +10,4 @@ learning about the DevOps Concept
 09. Jenkins
 10. Argo CD
 11. 3-Tier Architecture
+12. K8s
