@@ -11,3 +11,4 @@ learning about the DevOps Concept
 10. Argo CD
 11. 3-Tier Architecture
 12. K8s
+13. Grafana
