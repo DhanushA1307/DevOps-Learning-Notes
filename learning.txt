@@ -12,3 +12,4 @@ learning about the DevOps Concept
 11. 3-Tier Architecture
 12. K8s
 13. Grafana
+14. Terraform
